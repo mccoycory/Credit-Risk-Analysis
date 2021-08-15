@@ -21,7 +21,7 @@ Below are the results of the following six tests.
 2. High Risk precision - 1 %
 3. Low Risk precision - 100 %
 
-![Random Over Sampling]()
+![Random Over Sampling](https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Results%20Random%20Oversampling.png)
 
 ## Undersampling
 
@@ -29,7 +29,7 @@ Below are the results of the following six tests.
 2. High Risk precision - 1 %
 3. Low Risk precision - 100 %
 
-![Undersampling] ()
+![Undersampling] (https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Resutls%20Undersampling.png)
 
 ## Over & Under
 
@@ -37,7 +37,7 @@ Below are the results of the following six tests.
 2. High Risk precision - 1 %
 3. Low Risk precision - 100 %
 
-![OverUnder]()
+![OverUnder](https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Results%20over%20%26%20under.png)
 
 ## SMOTE Oversampling
 
@@ -45,7 +45,7 @@ Below are the results of the following six tests.
 2. High Risk precision - 1 %
 3. Low Risk precision - 100 %
 
-![SMOTE]()
+![SMOTE](https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Results%20SMOTE%20Oversampling.png)
 
 
 ## Balanced Random Forest Classifier 
@@ -54,13 +54,15 @@ Below are the results of the following six tests.
 2. High Risk precision - 4 %
 3. Low Risk precision - 100 %
 
-![Balanced Random Classifier]()
+![Balanced Random Classifier](https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Balanced%20Random%20Forest%20Classifier.png)
 
 ## Easy Ensemble Classifier 
 
 1. Accuracy - 93.16 %
 2. High Risk precision - 9 %
 3. Low Risk precision - 100 %
+
+1[Easy Ensemble](https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 # Summary 
 
