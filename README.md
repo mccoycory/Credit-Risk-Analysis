@@ -62,7 +62,7 @@ Below are the results of the following six tests.
 2. High Risk precision - 9 %
 3. Low Risk precision - 100 %
 
-1[Easy Ensemble](https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Easy%20Ensemble%20AdaBoost%20Classifier.png)
+![Easy Ensemble](https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 # Summary 
 
