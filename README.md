@@ -29,7 +29,7 @@ Below are the results of the following six tests.
 2. High Risk precision - 1 %
 3. Low Risk precision - 100 %
 
-![Undersampling] (https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Resutls%20Undersampling.png)
+![Undersampling](https://github.com/mccoycory/Credit-Risk-Analysis/blob/main/Resutls%20Undersampling.png)
 
 ## Over & Under
 
